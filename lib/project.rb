@@ -8,7 +8,7 @@ class Project
     @backers = []
   end 
   
-  def add_baker(backer)
+  def add_backer(backer)
     @backer = []
   end 
   
