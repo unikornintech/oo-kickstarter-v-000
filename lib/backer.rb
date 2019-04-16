@@ -1,5 +1,6 @@
 require 'pry'
 
 class Backer
-  def initialize()
+  def initialize(name)
+  end 
 end 
