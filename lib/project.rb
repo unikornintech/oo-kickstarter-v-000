@@ -10,4 +10,6 @@ class Project
   
   def add_baker(backer)
     @backer = []
+  end 
+  
 end 
